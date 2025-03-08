@@ -41,8 +41,8 @@ Here's a walkthrough of implemented required features:
 
 
 GIF created with:
-1- Xbox Game Bar
-2- https://cloudconvert.com/mp4-converter
+(1). Xbox Game Bar
+(2). https://cloudconvert.com/mp4-converter
 
 #Other future tools:GIF will be created with [ScreenToGif](https://www.screentogif.com/)#
 
